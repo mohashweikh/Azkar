@@ -1,0 +1,81 @@
+[
+  {
+    "id": 1,
+    "name" : "أذكار الصباح",
+    "img": "assets/images/azkar/moorning.PNG"
+  },
+  {
+    "id": 2,
+    "name" : "أذكار المساء",
+    "img": "assets/images/azkar/evining.PNG"
+  },
+  {
+    "id": 3,
+    "name" : "أذكار  النوم",
+    "img": "assets/images/azkar/sleep.PNG"
+  },
+  {
+    "id": 4,
+    "name" : "أذكارالإستيقاظ",
+    "img": "assets/images/azkar/wakeup.PNG"
+  },
+  {
+    "id": 5,
+    "name" : "أذكار الوضوء",
+    "img": "assets/images/azkar/wdooa.PNG"
+  },
+  {
+    "id": 6,
+    "name" : "أذكارالمسجد",
+    "img": "assets/images/azkar/mosque.PNG"
+  },
+  {
+    "id": 7,
+    "name" : "أذكار الطعام",
+    "img": "assets/images/azkar/food.PNG"
+  },
+  {
+    "id": 8,
+    "name" : "أذكار الصلاة",
+    "img": "assets/images/azkar/salaa.PNG"
+  },  {
+    "id": 9,
+    "name" : "أذكار المنزل",
+  "img": "assets/images/azkar/house.PNG"
+  },
+    {
+        "id": 10,
+        "name" : "أذكار  الخلاء",
+      "img": "assets/images/azkar/bathroom.PNG"
+    },
+    {
+        "id": 11,
+        "name" : "أذكار الحج و العمرة",
+      "img": "assets/images/azkar/haaj.PNG"
+    },
+    {
+        "id": 12,
+        "name" : "أذكار متفرقة",
+      "img": "assets/images/azkar/differents.PNG"
+    },
+  {
+    "id": 13,
+    "name" : "جوامع الدعاء",
+    "img": "assets/images/azkar/doaaa.PNG"
+  },
+  {
+    "id": 14,
+    "name" : "الأدعية القرأنية",
+    "img": "assets/images/azkar/quran.PNG"
+  },
+  {
+    "id": 15,
+    "name" : "الأدعية النبوية ",
+    "img": "assets/images/azkar/mohammed.PNG"
+  },
+  {
+    "id": 16,
+    "name" : "أدعية الأنبياء",
+    "img": "assets/images/azkar/rosl.PNG"
+  }
+]
